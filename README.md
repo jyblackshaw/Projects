@@ -1,5 +1,6 @@
-# Projects
+# Welcome to Julian's Projects
 
+Hello there! I'm Julian, and this is a collection of projects that I've had the pleasure of working on. These projects span a variety of domains, showcasing my passion for exploration, creativity, and problem-solving.Feel free to dive into these projects and explore the code. Your feedback and insights are always appreciated.
 ## Research
 [Optimizing Foliage Density Estimation for NYC](https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-)
 
