@@ -1,12 +1,5 @@
 # Projects
 
-[Research](#research)
-
-[Game Development](#game-developement)
-
-[Academic](#academic)
-
-
 ## Research
 [Optimizing Foliage Density Estimation for NYC](https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-)
 
