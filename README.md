@@ -1,7 +1,9 @@
 # Projects
 
 [Research](#research)
+
 [Game Development](#game-developement)
+
 [Academic](#academic)
 
 
