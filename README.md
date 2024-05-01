@@ -6,7 +6,7 @@ Welcome to my project portfolio! This repository contains a collection of divers
 
 ### Research
 - [**Optimizing Foliage Density Estimation for NYC**](https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-): An exploration into optimizing foliage density estimation with a focus on NYC.
-- [**Nasa L'Space PDR Proposal**](https://docs.google.com/document/d/15bmLl8pCfGfXXZ5I0xZVvGx611Hoqt36/edit?usp=sharing&ouid=117332866483455348871&rtpof=true&sd=true): Red Delta's rover mission proposal to Mars.
+- [**Nasa L'Space PDR Proposal**](https://docs.google.com/document/d/15bmLl8pCfGfXXZ5I0xZVvGx611Hoqt36/edit?usp=sharing&ouid=117332866483455348871&rtpof=true&sd=true): Red Delta's rover mission proposal to study water and habitability on Mar.
 
 ### Game Development
 - [**Eller's Maze Algorithm**](https://github.com/jyblackshaw/Ellers-Maze-Algorithm): Implementing maze generation using Eller's algorithm.
