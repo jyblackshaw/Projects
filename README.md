@@ -13,7 +13,7 @@ Welcome to my project portfolio! This repository contains a collection of divers
 - [**L-System Visualizer**](https://github.com/jyblackshaw/L-Systems-Visualizer): Visualizing L-systems for procedural generation in game development.
 
 ### Academic
-- [**UCI WebCrawler**](https://github.com/juneyk1/spacetime-crawler4py/branches): Within a team of 4, helped develop a focused web crawler that navigates through UCI's ICS domain using Python and a spacetime caching server, with custom scraping rules and politeness constraints.
+- [**UCI WebCrawler**](https://github.com/juneyk1/spacetime-crawler4py): Within a team of 4, helped develop a focused web crawler that navigates through UCI's ICS domain using Python and a spacetime caching server, with custom scraping rules and politeness constraints.
 
 ## Project Details
 
