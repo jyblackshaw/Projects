@@ -13,10 +13,7 @@ Welcome to my project portfolio! This repository contains a collection of divers
 - [**L-System Visualizer**](https://github.com/jyblackshaw/L-Systems-Visualizer): Visualizing L-systems for procedural generation in game development.
 
 ### Academic
-- [**Airport Database Management GUI**](https://github.com/jyblackshaw/Airport-Database-Management-GUI): A graphical user interface for managing airport databases.
-- [**Random Sentence Generation from Grammar**](https://github.com/jyblackshaw/Random-Sentence-Generation-from-Grammar): Generating random sentences using predefined grammatical rules.
-- [**Grin Interpreter**](https://github.com/jyblackshaw/Grin-Interpreter): An interpreter for the Grin programming language.
-- [**Geometric Shapes Project**](https://github.com/jyblackshaw/Geometric-Shapes-Project): A project exploring geometric shapes and related mathematical operations.
+- [**UCI WebCrawler**](https://github.com/juneyk1/spacetime-crawler4py/branches): Within a team of 4, helped develop a focused web crawler that navigates through UCI's ICS domain using Python and a spacetime caching server, with custom scraping rules and politeness constraints.
 
 ## Project Details
 
