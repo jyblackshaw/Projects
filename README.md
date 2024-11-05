@@ -14,7 +14,7 @@
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-)
 - Advanced research project focused on optimizing foliage density estimation in urban environments
 - Developed innovative approaches for analyzing urban greenery distribution
-- Technologies: `Python` `Data Analysis` `GIS`
+- Technologies: `Python` `Data Analysis` `GIS` 'GeoPandas'
 
 #### NASA L'Space PDR Proposal
 [![Proposal](https://img.shields.io/badge/View_Proposal-FF4470?style=for-the-badge)](https://docs.google.com/document/d/15bmLl8pCfGfXXZ5I0xZVvGx611Hoqt36/edit)
@@ -27,13 +27,13 @@
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/Ellers-Maze-Algorithm)
 - Implemented procedural maze generation using Eller's algorithm
 - Created efficient and visually appealing maze structures
-- Technologies: `C++` `Algorithm Design` `Visualization`
+- Technologies: `Unity Engine` `C#` `Algorithm Design` `Visualization`
 
 #### L-System Visualizer
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/L-Systems-Visualizer)
 - Developed tool for visualizing L-systems in procedural generation
 - Interactive system for exploring fractal patterns
-- Technologies: `Python` `Graphics Programming`
+- Technologies: `Unity Engine` `C#`
 
 ### 💻 Academic Projects
 #### UCI WebCrawler
@@ -48,6 +48,7 @@
 - Mobile application for tracking sleep patterns and alertness
 - Built with Ionic/Angular framework
 - Features: Sleep logging, alertness tracking, data visualization
+- Technologies: `Angular` `HTML` `CSS` `TypeScript`
 
 ## 🛠️ Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
