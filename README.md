@@ -15,6 +15,7 @@ Welcome to my project portfolio! This repository contains a collection of divers
 
 ### Academic
 - [**UCI WebCrawler**](https://github.com/juneyk1/spacetime-crawler4py): Within a team of 4, developed a focused web crawler that navigates through UCI's ICS domain using Python and a spacetime caching server, with custom scraping rules and politeness constraints.
+- [**Sleep Tracker**](https://github.com/juneyk1/spacetime-crawler4py): Within a team of 4, developed a focused web crawler that navigates through UCI's ICS domain using Python and a spacetime caching server, with custom scraping rules and politeness constraints.
 
 ## Project Details
 
