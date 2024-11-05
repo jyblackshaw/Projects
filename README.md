@@ -1,22 +1,68 @@
 # Julian Blackshaw's Projects Portfolio
 
-Welcome to my project portfolio! This repository contains a collection of diverse projects spanning research, game development, and academic explorations. Each project showcases my passion for innovation, problem-solving, and continuous learning in the realm of computer science.
+<div align="center">
 
-## Projects Overview
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyblackshaw)
 
-### Research
-- [**Optimizing Foliage Density Estimation for NYC**](https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-): An exploration into optimizing foliage density estimation with a focus on NYC.
-- [**Nasa L'Space PDR Proposal**](https://docs.google.com/document/d/15bmLl8pCfGfXXZ5I0xZVvGx611Hoqt36/edit?usp=sharing&ouid=117332866483455348871&rtpof=true&sd=true): Red Delta's rover mission proposal to study water presence and habitability on Mars. I was a member of the Computer Handware Engineer and Programmatics teams.
+</div>
 
-### Game Development
-- [**Containment (WIP)**](): descrip...
-- [**Eller's Maze Algorithm**](https://github.com/jyblackshaw/Ellers-Maze-Algorithm): Implementing maze generation using Eller's algorithm.
-- [**L-System Visualizer**](https://github.com/jyblackshaw/L-Systems-Visualizer): Visualizing L-systems for procedural generation in game development.
+## 🚀 Featured Projects
 
-### Academic
-- [**UCI WebCrawler**](https://github.com/juneyk1/spacetime-crawler4py): Within a team of 4, developed a focused web crawler that navigates through UCI's ICS domain using Python and a spacetime caching server, with custom scraping rules and politeness constraints.
-- [**Sleep Tracker**](https://github.com/jyblackshaw/SleepTrackerApp): Built a mobile sleep tracking app with Ionic/Angular to help users monitor their sleep patterns and daytime alertness levels.
+### 🔬 Research Projects
+#### Optimizing Foliage Density Estimation for NYC
+[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-)
+- Advanced research project focused on optimizing foliage density estimation in urban environments
+- Developed innovative approaches for analyzing urban greenery distribution
+- Technologies: `Python` `Data Analysis` `GIS`
 
-## Project Details
+#### NASA L'Space PDR Proposal
+[![Proposal](https://img.shields.io/badge/View_Proposal-FF4470?style=for-the-badge)](https://docs.google.com/document/d/15bmLl8pCfGfXXZ5I0xZVvGx611Hoqt36/edit)
+- Computer Hardware Engineer & Programmatics Team Member
+- Developed rover mission proposal for Mars water presence study
+- Focused on hardware integration and mission planning
 
-Feel free to explore each project in detail by clicking on the project links above. Your feedback and contributions are highly appreciated!
+### 🎮 Game Development
+#### Eller's Maze Algorithm
+[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/Ellers-Maze-Algorithm)
+- Implemented procedural maze generation using Eller's algorithm
+- Created efficient and visually appealing maze structures
+- Technologies: `C++` `Algorithm Design` `Visualization`
+
+#### L-System Visualizer
+[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/L-Systems-Visualizer)
+- Developed tool for visualizing L-systems in procedural generation
+- Interactive system for exploring fractal patterns
+- Technologies: `Python` `Graphics Programming`
+
+### 💻 Academic Projects
+#### UCI WebCrawler
+[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/juneyk1/spacetime-crawler4py)
+- Collaborative web crawler development for UCI's ICS domain
+- Implemented custom scraping rules and politeness constraints
+- Team Size: 4 members
+- Technologies: `Python` `Web Scraping` `Spacetime Framework`
+
+#### Sleep Tracker Mobile App
+[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/SleepTrackerApp)
+- Mobile application for tracking sleep patterns and alertness
+- Built with Ionic/Angular framework
+- Features: Sleep logging, alertness tracking, data visualization
+
+## 🛠️ Technical Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+## 📊 GitHub Activity
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jyblackshaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyblackshaw&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+<div align="center">
+⭐️ From [jyblackshaw](https://github.com/jyblackshaw)
+</div>
