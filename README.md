@@ -18,9 +18,9 @@
 
 #### NASA L'Space PDR Proposal
 [![Proposal](https://img.shields.io/badge/View_Proposal-FF4470?style=for-the-badge)](https://docs.google.com/document/d/15bmLl8pCfGfXXZ5I0xZVvGx611Hoqt36/edit)
-- Computer Hardware Engineer & Programmatics Team Member
-- Developed rover mission proposal for Mars water presence study
-- Focused on hardware integration and mission planning
+- Computer Hardware Engineer & Programmatics Team Lead
+- Contributed to 
+- Team Focused on hardware integration and mission planning
 
 ### 🎮 Game Development
 #### Eller's Maze Algorithm
