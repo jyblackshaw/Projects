@@ -14,7 +14,7 @@
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-)
 - Advanced research project focused on optimizing foliage density estimation in urban environments
 - Developed innovative approaches for analyzing urban greenery distribution
-- Technologies: `Python` `Data Analysis` `GIS` 'GeoPandas'
+- Technologies: `Python` `Data Analysis` `GIS` `GeoPandas`
 
 #### NASA L'Space PDR Proposal
 [![Proposal](https://img.shields.io/badge/View_Proposal-FF4470?style=for-the-badge)](https://docs.google.com/document/d/15bmLl8pCfGfXXZ5I0xZVvGx611Hoqt36/edit)
