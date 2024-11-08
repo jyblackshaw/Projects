@@ -50,6 +50,11 @@
 - Features: Sleep logging, alertness tracking, data visualization
 - Technologies: `Angular` `HTML` `CSS` `TypeScript`
 
+- #### Crumple Trees
+[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/CrumpleTrees/tree/main)
+- Implemented the crumple tree data structure a specialized balanced binary search tree implementation in C++ with self balancing properties.
+- Technologies: `C++`
+
 ## 🛠️ Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
