@@ -22,19 +22,6 @@
 - Helped develop CDH Subsystem (Section 2.1)
 - Helped with mission schedule & budget (Sections 5.2 & 5.3)
 
-### 🎮 Game Development
-#### Eller's Maze Algorithm
-[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/Ellers-Maze-Algorithm)
-- Implemented procedural maze generation using Eller's algorithm
-- Created efficient and visually appealing maze structures
-- Technologies: `Unity Engine` `C#` `Algorithm Design` `Visualization`
-
-#### L-System Visualizer
-[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/L-Systems-Visualizer)
-- Developed tool for visualizing L-systems in procedural generation
-- Interactive system for exploring fractal patterns
-- Technologies: `Unity Engine` `C#`
-
 ### 💻 Academic Projects
 #### UCI WebCrawler
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/juneyk1/spacetime-crawler4py)
@@ -54,6 +41,19 @@
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/CrumpleTrees/tree/main)
 - Implemented the crumple tree data structure a specialized balanced binary search tree implementation in C++ with self balancing properties.
 - Technologies: `C++`
+
+### 🎮 Game Development
+#### Eller's Maze Algorithm
+[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/Ellers-Maze-Algorithm)
+- Implemented procedural maze generation using Eller's algorithm
+- Created efficient and visually appealing maze structures
+- Technologies: `Unity Engine` `C#` `Algorithm Design` `Visualization`
+
+#### L-System Visualizer
+[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/L-Systems-Visualizer)
+- Developed tool for visualizing L-systems in procedural generation
+- Interactive system for exploring fractal patterns
+- Technologies: `Unity Engine` `C#`
 
 ## 🛠️ Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
