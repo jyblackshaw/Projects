@@ -43,6 +43,13 @@
 - Technologies: `C++`
 
 ### 🎮 Game Development
+#### AI Art Gallery
+[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/AI-Art-Gallery)
+- Developed an interactive AI-powered art gallery using Unity3D and OpenAI's APIs
+- Implemented dynamic gallery generation using DALL-E for artwork and GPT-4 for narratives
+- Features theme-based generation and cohesive exhibition storytelling
+- Technologies: `Unity Engine` `C#` `OpenAI API` `UI Toolkit` `DOTween`
+
 #### Eller's Maze Algorithm
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/Ellers-Maze-Algorithm)
 - Implemented procedural maze generation using Eller's algorithm
