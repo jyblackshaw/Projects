@@ -61,11 +61,6 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-## 📊 GitHub Activity
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyblackshaw&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ---
 <div align="center">
 ⭐️ From [jyblackshaw](https://github.com/jyblackshaw)
