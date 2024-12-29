@@ -24,7 +24,7 @@
 
 ### 💻 Academic
 #### UCI WebCrawler & Search Engine
-[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/juneyk1/cs121-assignment3)
+[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/juneyk1/spacetime-crawler4py)
 - Collaborative web crawler development for UCI's ICS domain, implemented custom scraping rules and politeness constraints
 - Helped develop reverse index, tf-idf, search engine, and UI.
 - Team Size: 4 members
