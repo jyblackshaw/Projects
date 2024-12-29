@@ -23,7 +23,7 @@
 - Helped with mission schedule & budget (Sections 5.2 & 5.3)
 
 ### 💻 Academic
-#### UCI WebCrawler
+#### UCI WebCrawler & Search Engine
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/juneyk1/spacetime-crawler4py)
 - Collaborative web crawler development for UCI's ICS domain
 - Implemented custom scraping rules and politeness constraints
