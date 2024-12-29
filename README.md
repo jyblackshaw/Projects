@@ -35,7 +35,6 @@
 - Mobile application for tracking sleep patterns and alertness
 - Built with Ionic/Angular framework
 - Features: Sleep logging, alertness tracking, data visualization
-- Note: project contributions are attached to my school github account (jblacksh).
 - Technologies: `Angular` `HTML` `CSS` `TypeScript`
 
 
