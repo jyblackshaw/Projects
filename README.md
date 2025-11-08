@@ -2,6 +2,11 @@
 
 ## Featured Projects
 
+#### FBX Editor
+[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/FBXEditor)
+- Unity Editor tool for non-destructive modification of imported FBX models (static and skinned).
+- Features a high-performance, per-triangle mesh separator, a skinned mesh-aware combiner, and tools for baking transforms, editing pivots, and auto-linking textures.
+- Technologies: 'C#' 'Unity Editor' 'Unity Job System' 'Burst Compiler' 'Scene GUI'
 #### WebCrawler & Search Engine
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/juneyk1/spacetime-crawler4py)
 - Collaborative web crawler development for UCI's ICS domain, implemented custom scraping rules and politeness constraints
