@@ -2,21 +2,7 @@
 
 ## Featured Projects
 
-### Research
-#### Optimizing Foliage Density Estimation for NYC
-[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-)
-- Advanced research project focused on optimizing foliage density estimation in urban environments
-- Developed innovative approaches for analyzing urban greenery distribution
-- Technologies: `Python` `Data Analysis` `GIS` `GeoPandas`
-
-#### NASA L'Space PDR Proposal
-[![Proposal](https://img.shields.io/badge/View_Proposal-FF4470?style=for-the-badge)](https://docs.google.com/document/d/15bmLl8pCfGfXXZ5I0xZVvGx611Hoqt36/edit)
-- Computer Hardware Engineer Team Lead & Program Analyst.
-- Helped develop CDH Subsystem (Section 2.1)
-- Helped with mission schedule & budget (Sections 5.2 & 5.3)
-
-### Academic
-#### UCI WebCrawler & Search Engine
+#### WebCrawler & Search Engine
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/juneyk1/spacetime-crawler4py)
 - Collaborative web crawler development for UCI's ICS domain, implemented custom scraping rules and politeness constraints
 - Helped develop reverse index, tf-idf, search engine, and UI.
@@ -44,6 +30,19 @@
 - Implemented procedural maze generation using Eller's algorithm
 - Created efficient and visually appealing maze structures
 - Technologies: `Unity Engine` `C#` `Algorithm Design` `Visualization`
+
+### Research
+#### Optimizing Foliage Density Estimation for NYC
+[![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-)
+- Advanced research project focused on optimizing foliage density estimation in urban environments
+- Developed innovative approaches for analyzing urban greenery distribution
+- Technologies: `Python` `Data Analysis` `GIS` `GeoPandas`
+
+#### NASA L'Space PDR Proposal
+[![Proposal](https://img.shields.io/badge/View_Proposal-FF4470?style=for-the-badge)](https://docs.google.com/document/d/15bmLl8pCfGfXXZ5I0xZVvGx611Hoqt36/edit)
+- Computer Hardware Engineer Team Lead & Program Analyst.
+- Helped develop CDH Subsystem (Section 2.1)
+- Helped with mission schedule & budget (Sections 5.2 & 5.3)
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
