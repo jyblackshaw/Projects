@@ -7,7 +7,7 @@
 
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔬 Research
 #### Optimizing Foliage Density Estimation for NYC
