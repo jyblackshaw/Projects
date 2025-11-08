@@ -9,7 +9,7 @@
 
 ## Featured Projects
 
-### 🔬 Research
+### Research
 #### Optimizing Foliage Density Estimation for NYC
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-)
 - Advanced research project focused on optimizing foliage density estimation in urban environments
@@ -22,7 +22,7 @@
 - Helped develop CDH Subsystem (Section 2.1)
 - Helped with mission schedule & budget (Sections 5.2 & 5.3)
 
-### 💻 Academic
+### Academic
 #### UCI WebCrawler & Search Engine
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/juneyk1/spacetime-crawler4py)
 - Collaborative web crawler development for UCI's ICS domain, implemented custom scraping rules and politeness constraints
@@ -38,7 +38,7 @@
 - Technologies: `Angular` `HTML` `CSS` `TypeScript`
 
 
-### 🎮 Game Development
+### Game Development
 #### AI Art Gallery
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/AI-Art-Gallery)
 - Developed an interactive AI-powered art gallery using Unity3D and OpenAI's APIs
@@ -52,7 +52,7 @@
 - Created efficient and visually appealing maze structures
 - Technologies: `Unity Engine` `C#` `Algorithm Design` `Visualization`
 
-## 🛠️ Technical Skills
+## Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
