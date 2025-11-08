@@ -21,8 +21,6 @@
 - Features: Sleep logging, alertness tracking, data visualization
 - Technologies: `Angular` `HTML` `CSS` `TypeScript`
 
-
-### Game Development
 #### AI Art Gallery
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/AI-Art-Gallery)
 - Developed an interactive AI-powered art gallery using Unity3D and OpenAI's APIs
@@ -36,7 +34,6 @@
 - Created efficient and visually appealing maze structures
 - Technologies: `Unity Engine` `C#` `Algorithm Design` `Visualization`
 
-### Research
 #### Optimizing Foliage Density Estimation for NYC
 [![Project](https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge)](https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-)
 - Advanced research project focused on optimizing foliage density estimation in urban environments
