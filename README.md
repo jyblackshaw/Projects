@@ -2,7 +2,22 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🔑 Project Category Key
+
+This portfolio is color-coded to highlight project focus:
+
+| Category | Color | Rationale |
+| :--- | :--- | :--- |
+| **Cybersecurity** | [![Badge](https://img.shields.io/badge/Category-1E88E5?style=for-the-badge&labelColor=1E88E5&color=1E88E5)](#) | **Blue Team/SOC/Security Architecture** |
+| **Game Development** | [![Badge](https://img.shields.io/badge/Category-5D3FD3?style=for-the-badge&labelColor=5D3FD3&color=5D3FD3)](#) | Unity, C#, Performance, Mobile Apps |
+| **Academic** | [![Badge](https://img.shields.io/badge/Category-00BCD4?style=for-the-badge&labelColor=00BCD4&color=00BCD4)](#) | Algorithms, Collaborative Work, Data Structures |
+| **Research** | [![Badge](https://img.shields.io/badge/Category-FF9800?style=for-the-badge&labelColor=FF9800&color=FF9800)](#) | Proposals, Data Analysis, Advanced Optimization |
+
+---
+
+## 🚀 Featured Projects (Prioritized)
+
+### Cybersecurity
 
 #### Homelab-SIEM: Virtual SOC & Threat Detection Lab
 [![Project](https://img.shields.io/badge/View_Project-1E88E5?style=for-the-badge)](https://github.com/jyblackshaw/Homelab-Siem)
@@ -13,6 +28,8 @@
 
 ---
 
+### Game Development
+
 #### FBX Editor
 [![Project](https://img.shields.io/badge/View_Project-5D3FD3?style=for-the-badge)](https://github.com/jyblackshaw/FBXEditor)
 * Unity Editor tool for non-destructive modification of imported FBX models (static and skinned).
@@ -21,6 +38,8 @@
 * Technologies: `C#` `Unity Editor` `Unity Job System` `Burst Compiler` `Scene GUI`
 
 ---
+
+### Academic
 
 #### WebCrawler & Search Engine
 [![Project](https://img.shields.io/badge/View_Project-00BCD4?style=for-the-badge)](https://github.com/juneyk1/spacetime-crawler4py)
@@ -32,6 +51,8 @@
 ---
 
 ## 💻 Additional Projects
+
+### Game Development
 
 #### Sleep Tracker Mobile App
 [![Project](https://img.shields.io/badge/View_Project-5D3FD3?style=for-the-badge)](https://github.com/jyblackshaw/SleepTrackerApp)
@@ -53,8 +74,12 @@
 * Created efficient and visually appealing maze structures.
 * Technologies: `Unity Engine` `C#` `Algorithm Design` `Visualization`
 
+---
+
+### Research
+
 #### Optimizing Foliage Density Estimation for NYC
-[![Project](https://img.shields.io/badge/View_Project-00BCD4?style=for-the-badge)](https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-)
+[![Project](https://img.shields.io/badge/View_Project-FF9800?style=for-the-badge)](https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-)
 * Advanced research project focused on optimizing foliage density estimation in urban environments.
 * Developed innovative approaches for analyzing urban greenery distribution.
 * Technologies: `Python` `Data Analysis` `GIS` `GeoPandas`
