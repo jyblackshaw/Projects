@@ -9,9 +9,9 @@ This portfolio is color-coded to highlight project focus:
 | Category | Color | Rationale |
 | :--- | :--- | :--- |
 | **Cybersecurity** | [![Badge](https://img.shields.io/badge/Category-1E88E5?style=for-the-badge&labelColor=1E88E5&color=1E88E5)](#) | Blue Team, SIEM/SOC, Security Architecture |
-| **Game Development** | [![Badge](https://img.shields.io/badge/Category-5D3FD3?style=for-the-badge&labelColor=5D3FD3&color=5D3FD3)](#) | Unity, C#, Performance, App Development |
-| **Academic** | [![Badge](https://img.shields.io/badge/Category-00BCD4?style=for-the-badge&labelColor=00BCD4&color=00BCD4)](#) | Algorithms, Collaborative Web, Data Structures |
-| **Research** | [![Badge](https://img.shields.io/badge/Category-FF9800?style=for-the-badge&labelColor=FF9800&color=FF9800)](#) | Proposals, Data Analysis, Advanced Optimization |
+| **Game Development** | [![Badge](https://img.shields.io/badge/Category-5D3FD3?style=for-the-badge&labelColor=5D3FD3&color=5D3FD3)](#) | Unity, C#, Game Development |
+| **Academic** | [![Badge](https://img.shields.io/badge/Category-00BCD4?style=for-the-badge&labelColor=00BCD4&color=00BCD4)](#) | Algorithms, Applications, Collaborative Work, Data Structures |
+| **Research** | [![Badge](https://img.shields.io/badge/Category-FF9800?style=for-the-badge&labelColor=FF9800&color=FF9800)](#) | Proposals, Data Analysis |
 
 ---
 
