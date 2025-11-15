@@ -74,7 +74,7 @@ This portfolio is color-coded to highlight project focus:
 
 #### NASA L'Space PDR Proposal
 [![Proposal](https://img.shields.io/badge/View_Proposal-FF9800?style=for-the-badge)](https://docs.google.com/document/d/15bmLl8pCfGfXXZ5I0xZVvGx611Hoqt36/edit)
-* Computer Hardware Engineer Team Lead & Program Analyst.
+* Computer Hardware Engineer & Program Analyst.
 * Helped develop CDH Subsystem (Section 2.1).
 * Helped with mission schedule & budget (Sections 5.2 & 5.3).
 
